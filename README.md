@@ -1,2 +1,2 @@
 # advent-2021
-Don't look at these they're cursed
+Solutions to Advent of Code 2021 implemented with Java.
